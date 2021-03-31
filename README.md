@@ -10,6 +10,7 @@ Also the credentials are stored in the way they are for this test task only.
 The spec file can be found under /webdriverio-test/test/specs dir.
 
 To run the test, please, use these commands:
+
 cd ./webdriverio-test
 
 npx wdio wdio.conf.js --spec ./test/specs/wibbitz.spec.js
