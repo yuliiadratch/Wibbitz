@@ -6,6 +6,7 @@ selecting the first clip and click play.
 
 I decided to write login explicitly in the test, however, usually I use the "before" or "beforeSuite" hooks. 
 Also the credentials are stored in the way they are for this test task only.
+Wibbitz url is included in the wdio config file as baseUrl.
 
 The spec file can be found under /webdriverio-test/test/specs dir.
 
